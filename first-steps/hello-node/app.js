@@ -1,3 +1,9 @@
-import chalk from 'chalk';
+import cowsay from 'cowsay';
 
-console.log(chalk.bgRed.white('Hello Impearion'));
+console.log(cowsay.say({
+  text: 'Moo'
+}));
+
+console.log(cowsay.think({
+  text: 'Impearion',
+}));
