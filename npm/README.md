@@ -1,13 +1,9 @@
 ---
-title: "Verwendung KI als Anwender"
+title: "Übung npm"
 author: "Alexander-David Beck | 5ABIFT"
-date: "04.12.2024"
+date: "04.02.2025"
 geometry: "margin=1in"
 fontsize: 12pt
-header-includes:
-  - \usepackage{listings}
-  - \lstset{basicstyle=\ttfamily, breaklines=true}
-
 ---
 
 # Über npm
